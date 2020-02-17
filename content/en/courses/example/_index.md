@@ -26,7 +26,9 @@ menu:
 Esta asignatura presenta al estudiante una alternativa para apropiar la disciplina de la programación como herramienta conceptual y tecnológica que permite solucionar problemas reales en ingeniería. Usaremos el lenguaje de programación Python
 
 
-## Actividades
+## Temas
+### Ciclos
+* Ejercicios del laberinto con ciclos (https://studio.code.org/s/20-hour/stage/2/puzzle/12) - realizar hasta el 20
 
 ### Tortuga
 Editor online de la tortuga (https://trinket.io/turtle)
