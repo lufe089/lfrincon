@@ -25,6 +25,8 @@ menu:
 ## Resumen
 Esta asignatura presenta al estudiante una alternativa para apropiar la disciplina de la programación como herramienta conceptual y tecnológica que permite solucionar problemas reales en ingeniería. Usaremos el lenguaje de programación Python
 
+## URL del grupo en telegram: 
+Direccion(t.me/introProg)
 
 ## Temas
 ### Ciclos
