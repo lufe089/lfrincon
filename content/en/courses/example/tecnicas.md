@@ -26,6 +26,7 @@ weight: 1
 
 ## Material
 
+* Curso recomendado GIT [Udacity] (https://www.udacity.com/course/version-control-with-git--ud123)
 * Diapositivas (https://github.com/lufe089/lfrincon/tree/master/material/Tecnicas/ClasesTutoriales)
 * Ejercicios (https://github.com/lufe089/lfrincon/tree/master/material/Tecnicas/Ejercicios)
 
