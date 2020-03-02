@@ -30,3 +30,30 @@ weight: 1
 * Diapositivas (https://github.com/lufe089/lfrincon/tree/master/material/Tecnicas/ClasesTutoriales)
 * Ejercicios (https://github.com/lufe089/lfrincon/tree/master/material/Tecnicas/Ejercicios)
 
+
+# Ejercicio arreglos
+Dado un arreglo de 10 elementos, que llamaremos  arreglo uno, recorra el arreglo y guarde en las posiciones pares(iniciando en la cero) de otro arreglo, en adelante arreglo 2, todos los números que encuentre del arreglo 1 que sean primos. Si el número del arreglo 1 no es primo entonces guardelo en el arreglo 2, pero en las posiciones impares( iniciando en la posición 1). Además  considere que en el arreglo 2 no pueden quedar repetidos.  Inicialice el arreglo 2 en ceros. 
+
+Tip. Separe el problema en operaciones para que sea más fácil la solución del enunciado.
+
+
+Para verificar que el ejercicio es correcto tenga encuenta estos casos de prueba:  
+Todos son primos, hay repetidos
+Ninguno es primo, hay repetidos 
+Hay primos y no primos , hay repetidos
+Hay primos y no primos, no hay repetidos
+
+
+Ejemplos ilustrativo
+
+Caso 1:
+Arreglo 1: 11 7 29 17 17 29 19 79 13 
+Arreglo2: 11 0 7 0 29 0  17 0 19 0 79 0 13
+
+Caso 2:
+Arreglo 1:  21 12 15 18 36 44 46 98 44 2000
+Arreglo2:  0 21 0 12 0 15 0 18 0 36 0 44 0 46 0 98 0 2000
+
+Caso 3
+Arreglo 1: 8 7 21 7 36  44 56 17 8 10
+Arreglo 2: 7 8 17 21 0 36 0 44 0 56 0 10
