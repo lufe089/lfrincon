@@ -55,3 +55,17 @@ a mayusculas. Si la letra es minuscula para pasarla a mayuscula simplemente se d
 restar a su valor entero 32 elementos. Aproveche la operación calcularLongitudCadena  */
 void pasarMayusculas(char arregloCaracteres[] );
 
+/*Una operación que puede ser útil es la de invertir una cadena. 
+Usted debe implementar una operación que reciba una cadena cadena de máximo 50 caracteres con cualquier tipo de caracteres. 
+Esta operación debe crear 3 arreglos a partir del original. 
+El primer arreglo contiene los caracteres numéricos de la frase ingresada. 
+El segundo tendrá las letras en mayúscula. 
+El tercero las letras en minúscula. 
+El cuarto arreglo contiene todos los demás símbolos. 
+La restricción para cada array es que debe acomodarse en orden inverso al 
+que aparece en la frase. 
+Para finalizar debe mostrar el contenido de cada arreglo en una línea 
+diferente cada uno. Tenga cuidado en recorrer la cadena únicamente hasta 
+que encuentre el carácter de terminación. */
+void separarCadenas (char arregloCaracteres[]);
+
