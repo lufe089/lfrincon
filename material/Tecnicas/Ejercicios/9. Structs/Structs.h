@@ -34,6 +34,6 @@ void imprimirDatosPasoValor(fish_t fish);
 // por referecia
 void imprimirDatosPasoReferencia(fish_t * fish);
 
-
+struct Fish * llenarFishMemDinamica();
 
 #endif
