@@ -29,7 +29,7 @@ weight: 1
 ### Videos a revisar semana hasta el 28 de marzo del 2020 
 * Structs: (https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID="ee0cb7a3-5329-4ba3-b3a0-ab8301830ebb") . Tiene cosas que ya vimos. Lo único nuevo es la memoria dinámica para los structs. Si tienen dudas lo ideal sería que los repasen.
 
-* Enums: tema nuevo!. Hay un ejercicio sencillo para que completen el código. (https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id="176343a8-03b4-4096-be04-ab8200275d36")
+* Enums: tema nuevo!. Hay un ejercicio sencillo para que completen el código. (https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=176343a8-03b4-4096-be04-ab8200275d36)
 * Recursión: esto es repaso del semestre anterior (https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID="f199947b-e46f-4d45-bc3f-ab8300378f68").
 Si tiene los conceptos claros puede hacer directamente los ejercicios, sino entonces vea los videos. Los videos estan hechos para python pero el tema es el mismo y los ejemplos están subidos para C en el repositorio de ejercicios.
 
