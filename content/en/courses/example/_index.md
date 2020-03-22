@@ -25,8 +25,10 @@ menu:
 ## Resumen
 Esta asignatura presenta al estudiante una alternativa para apropiar la disciplina de la programación como herramienta conceptual y tecnológica que permite solucionar problemas reales en ingeniería. Usaremos el lenguaje de programación Python
 
-## URL del grupo en telegram: 
-Dirección (http://t.me/introProg)
+## Documentos
+
+* Diapositivas (https://github.com/lufe089/lfrincon/tree/master/material/IntroProg/Clases)
+* Ejercicios (https://github.com/lufe089/lfrincon/tree/master/material/IntroProg/Ejercicios)
 
 ## Videos de clase 
 ### FOR: Semana del 23 de marzo al 25 de marzo (antes de clase) 
@@ -38,7 +40,7 @@ Dirección (http://t.me/introProg)
 * Video de la estructura de control FOR - para recorrer cadenas
 ( https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=63a8113f-f4de-4c22-b2c3-ab8501797a39 )
 
-**TAREA** hacer los ejercicios de for que estan propuestos en el repositorio en la ruta:
+**TAREA** hacer los ejercicios propuestos en el repositorio en la ruta:
  ( https://github.com/lufe089/lfrincon/tree/master/material/IntroProg/Ejercicios/3.%20Ciclos/4.%20For )
 
  ### Listas: Semana del 26 de marzo al 31 de marzo 
@@ -83,8 +85,7 @@ Describir constantes y variables en el entorno donde se encuentran hipo y chimue
 
 ---
 
-## Documentos
 
-* Diapositivas (https://github.com/lufe089/lfrincon/tree/master/material/IntroProg/Clases)
-* Ejercicios (https://github.com/lufe089/lfrincon/tree/master/material/IntroProg/Ejercicios)
 
+## URL del grupo en telegram: 
+Dirección (http://t.me/introProg)
