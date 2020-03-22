@@ -28,10 +28,14 @@ Esta asignatura presenta al estudiante una alternativa para apropiar la discipli
 ## URL del grupo en telegram: 
 Dirección (http://t.me/introProg)
 
-## Videos de apoyo para clase virtual [Deben autenticarse en blackboard para visualizarlos]
+## Videos a revisar semana del 23 de marzo al 25 de marzo (antes de clase) [Deben autenticarse en blackboard para visualizarlos]
 * Videos de repaso: estado, condicionales, repetición: (https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5ba71642-959f-4ce6-bf23-ab7e011b5d28)
 
-* Videos del la estructura de control FOR (https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=9cb76c59-f542-46c6-bc36-ab7f00fea0b1)
+* Videos del la estructura de control FOR - in range(https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=9cb76c59-f542-46c6-bc36-ab7f00fea0b1)
+
+* Video de la estructura de control FOR - para recorrer cadenas
+( https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=63a8113f-f4de-4c22-b2c3-ab8501797a39 )
+
 
 ## Temas
 ### Ciclos
