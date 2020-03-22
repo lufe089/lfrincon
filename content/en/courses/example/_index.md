@@ -44,6 +44,7 @@ Esta asignatura presenta al estudiante una alternativa para apropiar la discipli
  ( https://github.com/lufe089/lfrincon/tree/master/material/IntroProg/Ejercicios/3.%20Ciclos/4.%20For )
 
  ### Listas: Semana del 26 de marzo al 31 de marzo 
+ * Videos sobre las listas en python https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b971f861-21d8-4819-a348-ab8601079a71 )
 
 ## Temas
 ### Ciclos
