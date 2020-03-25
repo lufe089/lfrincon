@@ -45,7 +45,7 @@ Esta asignatura presenta al estudiante una alternativa para apropiar la discipli
 * Video de la estructura de control FOR - para recorrer cadenas
 ( https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=63a8113f-f4de-4c22-b2c3-ab8501797a39 )
 
- * Videos sobre las listas en python https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b971f861-21d8-4819-a348-ab8601079a71 )
+* Videos sobre las listas en python https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b971f861-21d8-4819-a348-ab8601079a71 )
 **TAREA** hacer los ejercicios del achivo *2. EjerciciosCadenasFor* propuestos en el repositorio en la ruta:
  ( https://github.com/lufe089/lfrincon/tree/master/material/IntroProg/Ejercicios/3.%20Ciclos/4.%20For )
 
