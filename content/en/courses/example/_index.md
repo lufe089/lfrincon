@@ -37,14 +37,24 @@ Esta asignatura presenta al estudiante una alternativa para apropiar la discipli
 
 * Videos del la estructura de control FOR - in range(https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=9cb76c59-f542-46c6-bc36-ab7f00fea0b1)
 
-* Video de la estructura de control FOR - para recorrer cadenas
-( https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=63a8113f-f4de-4c22-b2c3-ab8501797a39 )
-
 **TAREA** hacer los ejercicios propuestos en el repositorio en la ruta:
  ( https://github.com/lufe089/lfrincon/tree/master/material/IntroProg/Ejercicios/3.%20Ciclos/4.%20For )
 
- ### Listas: Semana del 26 de marzo al 31 de marzo 
+ ### Listas: Semana del 26 de marzo al 29 de marzo 
+
+* Video de la estructura de control FOR - para recorrer cadenas
+( https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=63a8113f-f4de-4c22-b2c3-ab8501797a39 )
+
  * Videos sobre las listas en python https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b971f861-21d8-4819-a348-ab8601079a71 )
+**TAREA** hacer los ejercicios del achivo *2. EjerciciosCadenasFor* propuestos en el repositorio en la ruta:
+ ( https://github.com/lufe089/lfrincon/tree/master/material/IntroProg/Ejercicios/3.%20Ciclos/4.%20For )
+
+**En la clase del 30 de marzo haremos ejercicios sobre for para cadenas y en la clase del 31 sobre for para listas**
+
+
+ ### Listas: Semana del 1 de abril al 14 de abril (incluye semana santa) 
+ * Videos sobre listas de listas en python ( pendiente por subir)
+
 
 ## Temas
 ### Ciclos
