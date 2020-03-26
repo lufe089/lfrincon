@@ -24,15 +24,20 @@ weight: 1
 
 ---
 
+## NOTICIAS: ParA las clases virtuales
+
 ### OJO Engregables pendientes hasta el 28 de marzo del 2020 (incluido)
 * *En su repositorio de github:* taller de git, cuento , ejercicio iniciado en la clase del 24 de marzo. 
 En el enunciado de cada ejercicio dentro del repositorio se explican las condiciones para cada entrega. 
 
+### Agenda clases marzo 30 y 31 del 2020
+* Marzo 30:  Ejercicios de git/github/trabajo colaborativo
+* Marzo 31:  Ejercicios de recursión
+
 ## Material
 
-### Videos a revisar semana hasta el 29 de marzo del 2020 al 4 de abril
+### Videos a revisar semana para antes de la clase del 13 de abril del 2020 
 * Archivos: (Pendiente por subir)
-
 
 ### Videos a revisar semana hasta el 28 de marzo del 2020 
 * Structs: (https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=ee0cb7a3-5329-4ba3-b3a0-ab8301830ebb). Tiene cosas que ya vimos. Lo único nuevo es la memoria dinámica para los structs. Si tienen dudas lo ideal sería que repasen los temas en los que tienen dudas. Hagan los ejercicios propuestos
