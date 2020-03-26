@@ -24,7 +24,7 @@ weight: 1
 
 ---
 
-## Engregables pendientes hasta el 28 de marzo del 2020 (incluido)
+### OJO Engregables pendientes hasta el 28 de marzo del 2020 (incluido)
 * *En su repositorio de github:* taller de git, cuento , ejercicio iniciado en la clase del 24 de marzo. 
 En el enunciado de cada ejercicio dentro del repositorio se explican las condiciones para cada entrega. 
 
