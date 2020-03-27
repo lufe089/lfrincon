@@ -28,7 +28,7 @@ weight: 1
 
 ### OJO Engregables pendientes hasta el 28 de marzo del 2020 (incluido)
 * *En su repositorio de github:* taller de git, cuento , ejercicio iniciado en la clase del 24 de marzo. 
-En el enunciado de cada ejercicio dentro del repositorio se explican las condiciones para cada entrega. 
+En el enunciado de cada ejercicio dentro del repositorio se explican las condiciones para cada entrega. (ver Aquí https://github.com/lufe089/lfrincon/tree/master/material/Tecnicas/Ejercicios) 
 
 ### Agenda clases marzo 30 y 31 del 2020
 * Marzo 30:  Ejercicios de git/github/trabajo colaborativo
