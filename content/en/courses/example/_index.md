@@ -38,7 +38,8 @@ Esta asignatura presenta al estudiante una alternativa para apropiar la discipli
 ( https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=63a8113f-f4de-4c22-b2c3-ab8501797a39 )
 
 * Videos sobre las listas en python ( https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID="2ce19567-35a7-4ae9-9be9-ab8601241e1d" )
-**Videos del 1 al 5**
+
+**Ver videos del 1 al 5**
 
 
 **TAREA** hacer los ejercicios del achivo *2. EjerciciosCadenasFor* propuestos en el repositorio en la ruta:
@@ -49,7 +50,8 @@ Esta asignatura presenta al estudiante una alternativa para apropiar la discipli
 
  ### Listas de listas: Semana del 1 de abril al 14 de abril (se alarga por semana santa) 
  * Videos sobre listas de listas en python ( https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID="2ce19567-35a7-4ae9-9be9-ab8601241e1d")
- **Videos del 6 al 9**
+ 
+ **Ver videos del 6 al 9**
 
 ### FOR: Semana del 23 de marzo al 25 de marzo (antes de clase) 
 **Deben autenticarse en blackboard para visualizarlos** 
