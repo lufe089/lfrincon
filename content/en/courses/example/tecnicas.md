@@ -26,7 +26,7 @@ weight: 1
 
 ## NOTICIAS: Para las clases virtuales
 
-### OJO Engregables pendientes hasta el 28 de marzo del 2020 (incluido)
+### OJO Engregables pendientes hasta el 28 de marzo del 2020 (11:55 pm)
 * *En su repositorio de github:* taller de git, cuento , ejercicio iniciado en la clase del 24 de marzo. 
 En el enunciado de cada ejercicio dentro del repositorio se explican las condiciones para cada entrega. (ver Aquí https://github.com/lufe089/lfrincon/tree/master/material/Tecnicas/Ejercicios) 
 
