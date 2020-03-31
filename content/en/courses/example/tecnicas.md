@@ -26,13 +26,26 @@ weight: 1
 
 ## NOTICIAS: Para las clases virtuales
 
-### OJO Engregables pendientes hasta el 28 de marzo del 2020 (11:55 pm)
-* *En su repositorio de github:* taller de git, cuento , ejercicio iniciado en la clase del 24 de marzo. 
-En el enunciado de cada ejercicio dentro del repositorio se explican las condiciones para cada entrega. (ver Aquí https://github.com/lufe089/lfrincon/tree/master/material/Tecnicas/Ejercicios) 
+### Lunes 13 y martes 14 de abril.  Sustentación parciales + asesorías para elaborar trabajo sobre ordenamientos recursivos e iterativos. 
+
+### Domingo 12 de abril del 2020 6:00 am
+Publicación del parcial vía blackboard. Fecha de entrega. Domingo 12 de abril 11:55 pm. Lo debe subir a su repositorio. 
+**Temas**: todo :)
+
+### OJO Engregables pendientes hasta el 4 de abril del 2020 (11:55 pm)
+* En su repositorio de github: ejercicio práctico grupal iniciado el 30 de marzo sobre conceptos anteriores + git ( revise para la entrega en github las condiciones actualizadas). La nota es individual, el trabajo es grupal. 
+* Actualización de todo el código fuente del repositorio revisado con CPPCHECK. Debe arreglar "errores" "advertencias" y "advertencias de estilo". 
+
+### (anterior) Engregables pendientes hasta el 28 de marzo del 2020 (11:55 pm)
+* En su repositorio de github:* taller de git, cuento , ejercicio iniciado en la clase del 24 de marzo. 
+* El enunciado de cada ejercicio está dentro del repositorio se explican las condiciones para cada entrega. (ver Aquí https://github.com/lufe089/lfrincon/tree/master/material/Tecnicas/Ejercicios) 
+-->
 
 ### Agenda clases marzo 30 y 31 del 2020
-* Marzo 30:  Ejercicios de git/github/trabajo colaborativo
-* Marzo 31:  Ejercicios de recursión
+* Marzo 30:  Ejercicios de git/github/trabajo colaborativo parte 1
+* Marzo 31:  Ejercicios de git/github/trabajo colaborativo parte 2 . Quiz de git sugerido ( https://learn.co/lessons/git-github-learn-quiz )
+
+
 
 ---
 ---
@@ -52,9 +65,10 @@ Si tiene los conceptos claros puede hacer directamente los ejercicios, sino ento
 * Curso recomendado GIT [Udacity] (https://classroom.udacity.com/courses/ud775)
 * Diapositivas (https://github.com/lufe089/lfrincon/tree/master/material/Tecnicas/ClasesTutoriales)
 * Ejercicios (https://github.com/lufe089/lfrincon/tree/master/material/Tecnicas/Ejercicios)
+* Editor colaborativo de texto ( http://collabedit.com )
 
 
-# Ejercicio arreglos
+### Ejercicio arreglos
 Dado un arreglo de 10 elementos, que llamaremos  arreglo uno, recorra el arreglo y guarde en las posiciones pares(iniciando en la cero) de otro arreglo, en adelante arreglo 2, todos los números que encuentre del arreglo 1 que sean primos. Si el número del arreglo 1 no es primo entonces guardelo en el arreglo 2, pero en las posiciones impares( iniciando en la posición 1). Además  considere que en el arreglo 2 no pueden quedar repetidos.  Inicialice el arreglo 2 en ceros. 
 
 Tip. Separe el problema en operaciones para que sea más fácil la solución del enunciado.
