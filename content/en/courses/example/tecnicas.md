@@ -24,13 +24,15 @@ weight: 1
 
 ---
 
-## NOTICIAS: Para las clases virtuales
+## Engregables: Para las clases virtuales
 
-### Lunes 13 y martes 14 de abril.  Sustentación parciales + asesorías para elaborar trabajo sobre ordenamientos recursivos e iterativos. 
+### Lunes 13 y martes 14 de abril.  
+* Sustentación parciales ( yo los agendo)
+* Asesorías para elaborar trabajo sobre ordenamientos recursivos e iterativos 
 
 ### Domingo 12 de abril del 2020 6:00 am
-Publicación del parcial vía blackboard. Fecha de entrega. Domingo 12 de abril 11:55 pm. Lo debe subir a su repositorio. 
-**Temas**: todo :)
+* Publicación del parcial vía blackboard. Fecha de entrega. Domingo 12 de abril 11:55 pm. Lo debe subir a su repositorio. 
+* **Temas**: todo :)
 
 ### OJO Engregables pendientes hasta el 4 de abril del 2020 (11:55 pm)
 * En su repositorio de github: ejercicio práctico grupal iniciado el 30 de marzo sobre conceptos anteriores + git ( revise para la entrega en github las condiciones actualizadas). La nota es individual, el trabajo es grupal. 
@@ -41,13 +43,12 @@ Publicación del parcial vía blackboard. Fecha de entrega. Domingo 12 de abril 
 * El enunciado de cada ejercicio está dentro del repositorio se explican las condiciones para cada entrega. (ver Aquí https://github.com/lufe089/lfrincon/tree/master/material/Tecnicas/Ejercicios) 
 -->
 
-### Agenda clases marzo 30 y 31 del 2020
+## Agenda clases virtuales
+### Marzo 30 y 31 del 2020
 * Marzo 30:  Ejercicios de git/github/trabajo colaborativo parte 1
 * Marzo 31:  Ejercicios de git/github/trabajo colaborativo parte 2 . Quiz de git sugerido ( https://learn.co/lessons/git-github-learn-quiz )
 
 
-
----
 ---
 
 ## Material
