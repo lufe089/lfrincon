@@ -53,8 +53,8 @@ weight: 1
 
 ## Material
 
-### Videos a revisar semana para antes de la clase del 13 de abril del 2020 
-* Archivos: (Pendiente por subir)
+### Video clase 31 de marzo
+* Revisión estática de código ( https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f8bbbaa3-88b0-428f-bec8-ab8f017816da)
 
 ### Videos a revisar semana hasta el 28 de marzo del 2020 
 * Structs: (https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=ee0cb7a3-5329-4ba3-b3a0-ab8301830ebb ). Tiene cosas que ya vimos. Lo único nuevo es la memoria dinámica para los structs. Si tienen dudas lo ideal sería que repasen los temas en los que tienen dudas. Hagan los ejercicios propuestos
