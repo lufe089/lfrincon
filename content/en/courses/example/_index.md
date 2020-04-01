@@ -30,9 +30,17 @@ Esta asignatura presenta al estudiante una alternativa para apropiar la discipli
 * Diapositivas (https://github.com/lufe089/lfrincon/tree/master/material/IntroProg/Clases)
 * Ejercicios (https://github.com/lufe089/lfrincon/tree/master/material/IntroProg/Ejercicios)
 
-## Videos de clase 
+## Agenda clases virtuales
 
- ### Listas: Semana del 26 de marzo al 29 de marzo 
+### Semana del 1 de abril al 5 de abril: listas de listas  (semana actual)
+
+ * Videos sobre listas de listas en python ( https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID="2ce19567-35a7-4ae9-9be9-ab8601241e1d" )
+ **Ver video del 6 en adelante** para antes de clase del 13 de abril.
+
+ *Si quiere practicar pq tiene tiempo en semana santa* :haga los ejercicios propuestos de listas para pensar.   
+
+
+### Semana del 26 de marzo al 29 de marzo (anterior)
 
 * Video de la estructura de control FOR - para recorrer cadenas
 ( https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=63a8113f-f4de-4c22-b2c3-ab8501797a39 )
@@ -45,15 +53,7 @@ Esta asignatura presenta al estudiante una alternativa para apropiar la discipli
 **TAREA** hacer los ejercicios del achivo *2. EjerciciosCadenasFor* propuestos en el repositorio en la ruta:
  ( https://github.com/lufe089/lfrincon/tree/master/material/IntroProg/Ejercicios/3.%20Ciclos/4.%20For )
 
-**En la clase del 30 de marzo haremos ejercicios sobre for para cadenas y en la clase del 31 sobre for para listas**
-
-
- ### Listas de listas: Semana del 1 de abril al 14 de abril (se alarga por semana santa) 
- * Videos sobre listas de listas en python ( https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID="2ce19567-35a7-4ae9-9be9-ab8601241e1d")
- 
- **Ver videos del 6 al 9**
-
-### FOR: Semana del 23 de marzo al 25 de marzo (antes de clase) 
+### Semana del 23 de marzo al 25 de marzo (anterior) 
 **Deben autenticarse en blackboard para visualizarlos** 
 * Videos de repaso: estado, condicionales, repetición: (https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5ba71642-959f-4ce6-bf23-ab7e011b5d28)
 
