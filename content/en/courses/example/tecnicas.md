@@ -26,6 +26,9 @@ weight: 1
 
 ## Engregables: Para las clases virtuales
 
+### Sabádo 18 de abril.  
+* Videos de ordenamientos. Subir los links a su repositorio
+
 ### Lunes 13 y martes 14 de abril.  
 * Sustentación parciales ( yo los agendo)
 * Asesorías para elaborar trabajo sobre ordenamientos recursivos e iterativos 
@@ -44,6 +47,11 @@ weight: 1
 -->
 
 ## Agenda clases virtuales
+
+### Abril 20 y 21
+* Resumen algoritmos de ordenamiento
+* Estándares de codificación
+
 ### Marzo 30 y 31 del 2020
 * Marzo 30:  Ejercicios de git/github/trabajo colaborativo parte 1
 * Marzo 31:  Ejercicios de git/github/trabajo colaborativo parte 2 . Quiz de git sugerido ( https://learn.co/lessons/git-github-learn-quiz )

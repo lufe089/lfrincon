@@ -30,6 +30,8 @@ Esta asignatura presenta al estudiante una alternativa para apropiar la discipli
 * Diapositivas (https://github.com/lufe089/lfrincon/tree/master/material/IntroProg/Clases)
 * Ejercicios (https://github.com/lufe089/lfrincon/tree/master/material/IntroProg/Ejercicios)
 
+---
+
 ## Agenda clases virtuales
 
 ### Semana del 1 de abril al 5 de abril: listas de listas  (semana actual)
@@ -62,7 +64,7 @@ Esta asignatura presenta al estudiante una alternativa para apropiar la discipli
 **TAREA** hacer los ejercicios propuestos en el repositorio en la ruta:
  ( https://github.com/lufe089/lfrincon/tree/master/material/IntroProg/Ejercicios/3.%20Ciclos/4.%20For )
 
-
+---
 ## Temas
 ### Ciclos
 * Ejercicios del laberinto con ciclos (https://studio.code.org/s/20-hour/stage/2/puzzle/12) - realizar hasta el 20
