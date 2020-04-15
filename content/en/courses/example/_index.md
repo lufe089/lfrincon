@@ -34,9 +34,16 @@ Esta asignatura presenta al estudiante una alternativa para apropiar la discipli
 
 ## Agenda clases virtuales
 
+### Videos elaborados semana del 26 de marzo al 9 de abril
+* ¿Cómo hacer un menu en python? ( https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=062b6fae-a556-4c52-b631-ab9e00fa72bf )
+ 
+Terminar los ejercicios de nivel 1 y 2 de listas de listas antes de la clase del 20 de abril. 
+
+
 ### Semana del 1 de abril al 5 de abril: listas de listas  (semana actual)
 
  * Videos sobre listas de listas en python ( https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID="2ce19567-35a7-4ae9-9be9-ab8601241e1d" )
+
  **Ver video del 6 en adelante** para antes de clase del 13 de abril.
 
  *Si quiere practicar pq tiene tiempo en semana santa* :haga los ejercicios propuestos de listas para pensar.   
