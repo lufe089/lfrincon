@@ -1,0 +1,3 @@
+# Cree la estructura de datos estudiante que tenga el nombre y el promedio acumulado
+# Use de ejemplo la información del empleado para hacer las mismas funciones: una para leer datos de estudiantes y otra para guardar datos.
+haga esto para tantos estudiantes como decida el usuario (repetición indefinida).
