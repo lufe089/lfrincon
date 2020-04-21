@@ -77,16 +77,3 @@ void guardarFPuts(FILE * pFile){
 	El lenguaje C ha demostrado ser un lenguaje extremadamente eficaz, hasta como para crear sistemas operativos, como Linux que fue creado en este lenguaje*/
 }
 
-
-void generarArchivoNumerosAleatorios(){
-	char * path ="numeros";
-	char * mode ="w";
-	FILE * pFileNums = abrirArchivo(path, mode);
-
-	int i = 0;
-	for (i=0; i<20; i++){
-		fprintf(pFileNums, "%d\n",i );
-	}
-	fclose(pFileNums);
-	printf("GEnere numeros aleatorios");
-}

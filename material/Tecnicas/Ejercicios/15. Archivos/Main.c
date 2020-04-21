@@ -3,7 +3,7 @@
 
 
 void guardarEmpleados(char path[]) {
-	char modo[] = "a";
+	char modo[] = "w";
 	FILE* pFile = abrirArchivo(path, modo);
 	int numEmpleados = 2;
 	if(pFile!=NULL){
@@ -11,6 +11,7 @@ void guardarEmpleados(char path[]) {
 		guardarArchivoFPrint(pFile, numEmpleados);
 		fclose(pFile);
 	}
+	
 }
 
 void leerEmpleados(char path[]){
@@ -33,7 +34,6 @@ int menu(){
 		printf("-1. Salir \n");
 		scanf("%d",&opc);
 
-		// Aqui hay un error... de lógica... ¿Cuál será?
 		switch(opc) {
 			case GUARDAR: guardarEmpleados(path);
 						  break;

@@ -8,7 +8,7 @@ typedef struct {
 } empleado_t;
 
 typedef enum Opcion{
-	GUARDAR, LEERSCANF, LEERFGETS
+	GUARDAR=1, LEERSCANF=2, LEERFGETS=3
 }opc_e;
 
 FILE* abrirArchivo(char path[], char modo[]);
