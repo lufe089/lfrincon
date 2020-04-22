@@ -27,7 +27,7 @@ weight: 1
 ## Engregables: Para las clases virtuales
 
 ### Sabádo 2 de mayo.  Ejercicio ordenamientos y archivos 
-* Enunciado: ( https://github.com/lufe089/lfrincon/blob/master/material/Tecnicas/Ejercicios/EntregableOrdenamientoArchivos.docx )
+*** Enunciado: ( https://github.com/lufe089/lfrincon/blob/master/material/Tecnicas/Ejercicios/EntregableOrdenamientoArchivos.docx )
 
 ### Sabádo 18 de abril.  
 * Videos de ordenamientos. Subir los links a su repositorio

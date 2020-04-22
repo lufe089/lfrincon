@@ -34,6 +34,16 @@ Esta asignatura presenta al estudiante una alternativa para apropiar la discipli
 
 ## Agenda clases virtuales
 
+### Clase de 27 y 29 de abril
+* **27 de abril** Solución de dudas y ejercicios  + avance en diccionarios
+* **28 de abril** Parcial: temas listas y listas de listas. 
+
+
+### Clase de 20 y 22 de abril
+* **22 de abril Tema nuevo diccionarios**. Si no estuvo en la clase, se la perdió o quiere volver a revisar algo la grabación completa esta aquí:
+( https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bab96dc5-5063-4c05-8b7c-aba500ebd992 s)
+* **21 de abril Ejercicios con matrices**  Hicimos los ejercicios de nivel 3 de matrices para recorrer matrices por columnas, acumulados, listas de listas. 
+
 ### Videos elaborados semana del 26 de marzo al 9 de abril
 * ¿Cómo hacer un menu en python? ( https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=062b6fae-a556-4c52-b631-ab9e00fa72bf )
  
