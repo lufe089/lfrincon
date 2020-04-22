@@ -26,6 +26,8 @@ weight: 1
 
 ## Engregables: Para las clases virtuales
 
+### Sabádo 2 de mayo.  Ejercicio ordenamientos y archivos 
+
 ### Sabádo 18 de abril.  
 * Videos de ordenamientos. Subir los links a su repositorio
 
@@ -49,8 +51,8 @@ weight: 1
 ## Agenda clases virtuales
 
 ### Abril 20 y 21
-* Resumen algoritmos de ordenamiento
-* Estándares de codificación
+* Explicación errores más comunes encontrados durante el parcial
+* Archivos  ( si no estuvo en la clase puede ver el video en este enlace https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5582e649-b517-40ea-af87-aba401623df0 )
 
 ### Marzo 30 y 31 del 2020
 * Marzo 30:  Ejercicios de git/github/trabajo colaborativo parte 1
