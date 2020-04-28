@@ -90,8 +90,7 @@ void leerArregloEmpleadosBinario(FILE* pFile, int numEmplead) {
 	int i;
 	//Se imprimen los datos para probar que fueron leidos correctamente
 	for(i=0; i<numEmplead; i++){
-		printf(
-					"\nValores leidos archivo binarios: nombre: "
+		printf("\nValores leidos archivo binarios: nombre: "
 					"%s, Edad: %d, Salario:%6.0f\n",
 					pArregloEmpleados[i].nombre_empleado, pArregloEmpleados[i].edad, pArregloEmpleados[i].salario);
 

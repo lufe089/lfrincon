@@ -55,8 +55,8 @@ void probarStruct (){
 	
 	pFile = abrirArchivo(path, "r");
 	if(pFile != NULL) {
-			printf("Leyendo archivo binario de empleados\n");
-			leerArregloEmpleadosBinario(pFile,2);
+		printf("Leyendo archivo binario de empleados\n");
+		leerArregloEmpleadosBinario(pFile,2);
 	} else {
 		printf("No se pudo abrir correctamente el archivo\n");
 	}
