@@ -34,13 +34,16 @@ Esta asignatura presenta al estudiante una alternativa para apropiar la discipli
 
 ## Agenda clases virtuales
 
+### Clases 11 y 13 de mayo (archivos)
+* Presentación sobre manejo de archivos ( https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=5fa89606-8c86-49ce-8a69-aba30184fb70 )
+
 ### Clases 4 y 6 de mayo
 * Información de diccionarios ( explicación del tema ) ( https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID="58442cd4-a01e-4af1-af51-ab9c00f01b78" )
 Los slides estan en la carpeta de material
 
-* Clase del grupo de Leonardo con explicación del tema y ejercicios - Parte 1 (https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=18f27ba7-036d-413e-9269-abb001752330 )
+* Clase del grupo de Leonardo con explicación del tema y ejercicios - ** Parte 1 (https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=18f27ba7-036d-413e-9269-abb001752330 )
 
-Parte 2 (https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2e33e974-7079-4119-86e2-abb0017522df )
+** Parte 2 (https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2e33e974-7079-4119-86e2-abb0017522df )
 
 ### Clase de 27 y 29 de abril
 * **27 de abril** Solución de dudas y ejercicios  + avance en diccionarios
