@@ -1,0 +1,2 @@
+Escriben g++ en lugar de gcc y el resto de comandos son los mismos. Sino puede compilarlo por ejemplo con 
+Dev c++ directamente

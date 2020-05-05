@@ -100,27 +100,32 @@ int main()
 	  	 pedirNumerosCalc(&num1, &num2);
 	  	 errores = 0;
 	   }catch(std::logic_error &e){
-	   	printf("Este programa tiene el siguiente error de validacion:  %s", e.what());
-	   	errores = 1;
+	   	 printf("Este programa tiene el siguiente error de validacion:  %s", e.what());
+	   	 errores = 1;
 	   }
-    } while (errores);
+    } while (errores == 1);
     
-    try{
-    	printf(" Ahora digame que operacion quiere: \n 0. Sumar \n 1. Dividir \n 2. Guardar \n");
-    	scanf("%d", &opc);
-    	switch(opc){
-			case SUMA:      sumaResult= sumar(num1,num2);
-				            break; 
-			case DIVISION:  divisionResult= dividir(num1,num2);		   
-				   			break; 
-			case GUARDAR:   FILE * pArchivo = abrirArchivo(NULL, "a");
-						    guardarArchivoFPrint(pArchivo, sumaResult, divisionResult);
-							break;
+    do{
 	
+		try{
+	    	printf(" Ahora digame que operacion quiere: \n 0. Sumar \n 1. Dividir \n 2. Guardar \n , -1. Salir \n");
+	    	scanf("%d", &opc);
+	    	switch(opc){
+				case SUMA:      sumaResult= sumar(num1,num2);
+					            break; 
+				case DIVISION:  divisionResult= dividir(num1,num2);		   
+					   			break; 
+				case GUARDAR:   //Aqui va a morir para que funcione ponga un nombre de un archivo en lugar del NULL
+								FILE * pArchivo = abrirArchivo(NULL, "a");
+							    guardarArchivoFPrint(pArchivo, sumaResult, divisionResult);
+								break;
+		
+			}
+		}
+		catch(std::logic_error &e){
+			 printf("Este programa tiene el siguiente error de validacion:  %s", e.what());
 		}
 	}
-	catch(std::logic_error &e){
-		 printf("Este programa tiene el siguiente error de validacion:  %s", e.what());
-	}
+	while (opc !=-1);
  
 }
