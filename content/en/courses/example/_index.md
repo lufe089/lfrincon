@@ -34,8 +34,13 @@ Esta asignatura presenta al estudiante una alternativa para apropiar la discipli
 
 ## Agenda clases virtuales
 
+## Sesión 18 de mayo ( Solución dudas proyecto)
+* Video disponible en ( https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=29682dab-23bb-40e5-ac1b-abbf00ee1a21 )
+
 ### Clases 11 y 13 de mayo (archivos)
 * Presentación sobre manejo de archivos ( https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=5fa89606-8c86-49ce-8a69-aba30184fb70 )
+
+* Grabación de clase explicación de archivos ( https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8abdc145-d422-4296-81a1-abba00fd6c6b )
 
 ### Clases 4 y 6 de mayo
 * Información de diccionarios ( explicación del tema ) ( https://ujaverianacali.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID="58442cd4-a01e-4af1-af51-ab9c00f01b78" )
